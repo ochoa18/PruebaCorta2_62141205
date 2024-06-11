@@ -44,43 +44,41 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyDw5mfkmycOC9O_s54pSX7P5x7kqDMDKr8',
     appId: '1:179684321700:web:0a0a6878303c54dc48b931',
     messagingSenderId: '179684321700',
-    projectId: 'fluttercrud-f7e2a',
-    authDomain: 'fluttercrud-f7e2a.firebaseapp.com',
-    storageBucket: 'fluttercrud-f7e2a.appspot.com',
+    projectId: 'pruebacorta2-f7e2a',
+    authDomain: 'pruebacorta2-f7e2a.firebaseapp.com',
+    storageBucket: 'pruebacorta2-f7e2a.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDUnZADdTvbaMxLmocbvqaqiJ9lwR87z30',
     appId: '1:179684321700:android:c406e5369e7ccbed48b931',
     messagingSenderId: '179684321700',
-    projectId: 'fluttercrud-f7e2a',
-    storageBucket: 'fluttercrud-f7e2a.appspot.com',
+    projectId: 'pruebacorta2-f7e2a',
+    storageBucket: 'pruebacorta2-f7e2a.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAMFLxzlINGdfti_V4CEvwop4mj8lmI4OI',
     appId: '1:179684321700:ios:6a82c3a53e082cb148b931',
     messagingSenderId: '179684321700',
-    projectId: 'fluttercrud-f7e2a',
-    storageBucket: 'fluttercrud-f7e2a.appspot.com',
-    iosBundleId: 'com.example.crudFirebase',
+    projectId: 'pruebacorta2-f7e2a',
+    storageBucket: 'pruebacorta2-f7e2a.appspot.com',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAMFLxzlINGdfti_V4CEvwop4mj8lmI4OI',
     appId: '1:179684321700:ios:6a82c3a53e082cb148b931',
     messagingSenderId: '179684321700',
-    projectId: 'fluttercrud-f7e2a',
-    storageBucket: 'fluttercrud-f7e2a.appspot.com',
-    iosBundleId: 'com.example.crudFirebase',
+    projectId: 'pruebacorta2-f7e2a',
+    storageBucket: 'pruebacorta2-f7e2a.appspot.com',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyDw5mfkmycOC9O_s54pSX7P5x7kqDMDKr8',
     appId: '1:179684321700:web:8fc893b1106609cd48b931',
     messagingSenderId: '179684321700',
-    projectId: 'fluttercrud-f7e2a',
-    authDomain: 'fluttercrud-f7e2a.firebaseapp.com',
-    storageBucket: 'fluttercrud-f7e2a.appspot.com',
+    projectId: 'pruebacorta2-f7e2a',
+    authDomain: 'pruebacorta2-f7e2a.firebaseapp.com',
+    storageBucket: 'pruebacorta2-f7e2a.appspot.com',
   );
 }

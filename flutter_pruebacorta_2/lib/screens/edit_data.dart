@@ -1,4 +1,4 @@
-import 'package:crud_firebase/services/firebase_service.dart';
+import 'package:flutter_pruebacorta_2/firebase_service.dart';
 import 'package:flutter/material.dart';
 
 class EditData extends StatefulWidget {
